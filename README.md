@@ -1,0 +1,2 @@
+- Hi, I'm @KolesovDM
+- In this repo placed default config file for nginx 
